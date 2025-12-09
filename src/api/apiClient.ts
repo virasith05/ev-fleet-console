@@ -1,4 +1,4 @@
-const API_BASE = "https://ev-fleet-ops.onrender.com/api";
+const API_BASE = "https://ev-fleet-ops-2.onrender.com/api";
 
 export async function apiGet<T>(path: string): Promise<T> {
   const response = await fetch(`${API_BASE_URL}${path}`);
