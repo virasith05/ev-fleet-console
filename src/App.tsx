@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import EvPage from "./EvPage";
 import ChargerPage from "./ChargerPage";
 import DriverPage from "./DriverPage";
